@@ -1,0 +1,12 @@
+{
+  "name": "php_project",
+  "version": "1.0.0",
+  "description": "A project that uses PHP and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
